@@ -1,3 +1,3 @@
 # dogbreed_hackathon
 
-## Getting Started: [dog-breed.ipynb](dog-breed.ipynb)
+## Getting Started: [dog-breeds.ipynb](dog-breeds.ipynb)
